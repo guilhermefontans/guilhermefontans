@@ -2,7 +2,7 @@
     <tr>
         <td>
             <h1> Who I Am ? </h1>
-            <b>A passionate developer who loves open source and learn new technologies.</b>
+            <b>A passionate developer who loves open source and learning new technologies.</b>
             <ul>
                 <li>Software Developer - Free Software and Open Source Developer</li>
                 <li>Father of cats</li>
