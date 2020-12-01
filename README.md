@@ -10,22 +10,22 @@
                 <li>Gamer in the free time</li>
             </ul>
             <h2> Some tools which I had worked or studied</h2>
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> &nbsp;
             <br/>
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"> &nbsp;
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"> &nbsp;
+            <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png"> &nbsp;
             <h2> Communication </h2>
 
 [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/guilhermefontans) &nbsp;&nbsp;
@@ -37,7 +37,7 @@
             </p>
         </td>   
         <td>
-            <img src="https://github.com/guilhermefontans/guilhermefontans/blob/main/.github/images/IMG_20191021_144130.jpg?raw=true" width="500">
+            <img src="https://raw.githubusercontent.com/guilhermefontans/guilhermefontans/main/.github/images/IMG_20191021_144130.jpg" width="500">
         </td>
     </tr>
 </table>
