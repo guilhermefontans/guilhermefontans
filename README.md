@@ -1,4 +1,4 @@
-<table>
+<table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td>
             <h1> Who I Am ? </h1>
