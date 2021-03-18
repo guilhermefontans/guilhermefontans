@@ -36,8 +36,5 @@
                 <img src="https://komarev.com/ghpvc/?username=guilhermefontans&color=blueviolet">
             </p>
         </td>   
-        <td>
-            <img src="https://raw.githubusercontent.com/guilhermefontans/guilhermefontans/main/.github/images/IMG_20191021_144130.jpg" width="500">
-        </td>
     </tr>
 </table>
